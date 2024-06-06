@@ -20,7 +20,7 @@ setup(
     author='wulfgang',
 
     # 作者的电子邮箱
-    author_email='wulfgang.oss@gmail.com',
+    author_email='wulfgang@163.com',
 
     # 许可证
     license='MIT',
